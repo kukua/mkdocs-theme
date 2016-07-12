@@ -1,6 +1,6 @@
 # MKDocs theme
 
-> Kukua theme for MKDocs.
+> MKDocs theme for Kukua.
 
 ## License
 
